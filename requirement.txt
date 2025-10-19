@@ -18,3 +18,5 @@ faiss-cpu
 numpy
 scipy
 pyngrok
+jiwer
+evaluate
